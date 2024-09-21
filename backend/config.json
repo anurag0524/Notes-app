@@ -1,3 +1,4 @@
 {
     "connectionString":"your mmongoDB link"
+    "in .env only add ACCESS_TOKEN_SECRET="whatever your secret is".  "
 }
