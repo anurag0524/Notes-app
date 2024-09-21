@@ -1,4 +1,3 @@
 {
-    "connectionString":"your mmongoDB link"
-    "in .env only add ACCESS_TOKEN_SECRET="whatever your secret is".  "
+    "connectionString":""mongodb+srv://username:password@cluster.ftdfocl.mongodb.net/""
 }
