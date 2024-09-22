@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "connectionString":"mongodb+srv://anurag4851:anurag@cluster.ftdfocl.mongodb.net/"
+=======
+    "connectionString":""mongodb+srv://username:password@cluster.ftdfocl.mongodb.net/""
+>>>>>>> f85f9b783671287eaf768e2c0e2cfa96ccf6dcc4
 }
