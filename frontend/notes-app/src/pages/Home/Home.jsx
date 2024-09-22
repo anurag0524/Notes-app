@@ -12,7 +12,7 @@ import Toast from "../../components/ToastMessage/Toast";
 import addNotesImage from "../../assets/images/add-notes.svg";
 import noDataImage from "../../assets/images/no-data.svg";
 
-
+//
 
 const Home = () => {
   console.log("Here we are!");
@@ -46,7 +46,7 @@ const Home = () => {
       type,
     });
   };
-
+  
   const handleCloseToast = () => {
     setShowToastMsg({
       isShown: false,

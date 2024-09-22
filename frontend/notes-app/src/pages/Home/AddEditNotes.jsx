@@ -4,7 +4,7 @@ import { MdClose } from "react-icons/md";
 import axiosInstance from "../../utils/axiosInstance";
 
 const AddEditNotes = ({ noteData, type, getAllNotes, onClose, showToastMessage }) => {
-  
+  //
   const [title, setTitle] = useState(noteData?.title || "");
   const [content, setContent] = useState(noteData?.content || "");
   const [tags, setTags] = useState(noteData?.tags || []);
